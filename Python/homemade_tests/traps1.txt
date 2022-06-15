@@ -1,7 +1,7 @@
 simple traps
-4
+10
 ####
 ##B##### 
-# HTU D#
+#H T D#
 ########
 
